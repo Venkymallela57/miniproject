@@ -1,0 +1,260 @@
+#v{
+    position: absolute;
+    top: 120px;
+    left: 20px;
+    box-shadow: 0px 0px 10px 5px blue ;
+    border-radius: 40px;
+    
+}
+#e{
+    position: absolute;
+    top:120px;
+    left:400px;
+    box-shadow: 0px 0px 10px 5px rgb(126, 61, 72);
+    border-radius: 40px;
+  
+}
+
+#n{
+    position: absolute;
+    top:120px;
+    left:780px;
+    box-shadow: 0px 0px 10px 5px  green;
+    border-radius: 40px;
+   
+}
+
+#k{
+    position: absolute;
+    top:120px;
+    left:1165px;
+    box-shadow: 0px 0px 10px 5px  yellow;
+    border-radius: 40px;
+}
+#y{
+    position: absolute;
+    top:750px;
+    left:20px;
+    box-shadow: 0px 0px 10px 5px violet;
+    border-radius: 40px;
+}
+
+#m{
+    position: absolute;
+    top:750px;
+    left:400px;
+    box-shadow: 0px 0px 10px 5px brown;
+    border-radius: 40px;
+}
+
+#a{
+    position: absolute;
+    top:750px;
+    left:780px;
+    box-shadow: 0px 0px 10px 5px rgb(165, 106, 42);
+    border-radius: 40px;
+}
+
+#l{
+    position: absolute;
+    top:750px;
+    left:1165px;
+    box-shadow: 0px 0px 10px 5px rgb(207, 10, 72);
+    border-radius: 40px;
+}
+
+footer{
+    background-image:linear-gradient(orange,white,green);
+    color: black;
+    font-size: 12px;
+    position:absolute;
+    top:1430px;
+    left:0px;
+    right:0px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+header{
+    background-image:linear-gradient( orange, white, green);
+    color: black;
+    font-size:15x;
+    position:absolute;
+    top:10pxpx;
+    left:0px;
+    right:0px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+
+p{
+    position: absolute;
+    font-size: medium;
+    font-family: cursive;
+    top:430px;
+    left:20px;
+    right:1120px;
+
+}
+
+p1{
+    position: absolute;
+    font-size: medium;
+    font-family: cursive;
+    top:450px;
+    left:400px;
+    right:750px;
+}
+
+p2{
+position: absolute;
+font-size: medium;
+font-family: cursive;
+top:450px;
+left:800px;
+right:400px;
+}
+p3{
+position: absolute;
+font-size: medium;
+font-family: cursive;
+top:450px;
+left:1150px;
+right:20px;
+}
+p4{
+    position: absolute;
+    font-size: medium;
+    font-family: cursive;
+    top:1100px;
+    left:20px;
+    right:1150px;
+    }
+    p5{
+        position: absolute;
+        font-size: medium;
+        font-family: cursive;
+        top:1100px;
+        left:400px;
+        right:800px;
+        }
+        p6{
+            position: absolute;
+            font-size: medium;
+            font-family: cursive;
+            top:1100px;
+            left:800px;
+            right:400px;
+            }
+            p7{
+                position: absolute;
+                font-size: medium;
+                font-family: cursive;
+                top:1100px;
+                left:1150px;
+                right:20px;
+                }
+h2{
+    position: absolute;
+    top:380px;
+    left:80px;
+    font-size:x-large;
+    font-family: cursive;
+}
+#a1{
+
+   position: absolute;
+    top:635px;
+    
+}
+#b1{
+    position: absolute;
+     top:635px;
+     left:400px;
+     
+ }
+ #c1{
+    position: absolute;
+     top:635px;
+     left:780px;
+     
+ } 
+ #d1{
+    position: absolute;
+     top:635px;
+     left:1180px;
+     
+ }
+ #e1{
+    position: absolute;
+     top:5px;
+     left:20px;
+     
+ }
+ #f1{
+    position: absolute;
+     top:5px;
+     left:400px;
+     
+ }
+ #g1{
+    position: absolute;
+     top:5px;
+     left: 780px;
+     
+ }
+ #h1{
+    position: absolute;
+     top:5px;
+     left:1180px;
+     
+ }
+ .a2:hover{
+    color: blue;
+    text-decoration: underline;
+    text-decoration-color: brown;
+ }
+ .a3:hover{
+    color: blue;
+    text-decoration: underline;
+    text-decoration-color: brown;
+ }
+ .a4:hover{
+    color: blue;
+    text-decoration: underline;
+    text-decoration-color: brown;
+ }
+ .a5:hover{
+    color: blue;
+    text-decoration: underline;
+    text-decoration-color: brown;
+ }
+ .a6:hover{
+    color: blue;
+    text-decoration: underline;
+    text-decoration-color: brown;
+ }
+     
+ .a7:hover{
+    color:blue;
+    text-decoration: underline;
+    text-decoration-color: brown;
+ }
+     
+ .a8:hover{
+    color:blue;
+    text-decoration: underline;
+    text-decoration-color: brown;
+ }
+     
+ .a9:hover{
+    color:blue;
+    text-decoration: underline;
+    text-decoration-color: brown;
+ }
+     
+ .a10:hover{
+    color:blue;
+    text-decoration: underline;
+    text-decoration-color: brown;
+ }
+     
